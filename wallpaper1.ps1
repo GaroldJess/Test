@@ -16,7 +16,7 @@ try {
 }
 
 # Define a specific username (Modify as needed)
-$specifiedUser = "MyDev"  # Replace with the actual username
+$specifiedUser = "GEC Test Admin"  # Replace with the actual username
 
 # Function to get SID for a specific user
 function Get-UserSID([string]$username) { 
